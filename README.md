@@ -9,11 +9,11 @@ Each sample directory contains its own instructions (SETUP.md) on how to run the
 
 ## Content
 
-<!--- Contains a list of  directories and link to published article -->
+* [CountDownProblem.java](countdown-haskell-java/CountDownProblem.java) published on https://inside.java/2023/11/02/countdown-haskell-java 
 
 ## Contributing
 
-If you spot an error or you know of an alternative way/an extra question/solution that you can offer, please reach out to us by email [java_devrel_grp](mailto:java_devrel_grp@oracle.com).
+If you spot an error, or you know of an alternative way/an extra question/solution that you can offer, please reach out to us by email [java_devrel_grp](mailto:java_devrel_grp@oracle.com).
 
 ## Security
 
