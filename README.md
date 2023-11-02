@@ -1,7 +1,6 @@
 # Samples
 
 This repository contains sample code in order for developers to reproduce complex examples shared on https://inside.java or https://dev.java.
-The code is stored in a directory named after the URL slug of the published article.
 
 ## Installation
 
@@ -13,7 +12,7 @@ Each sample directory contains its own instructions (SETUP.md) on how to run the
 
 ## Contributing
 
-If you spot an error or you know of an alternative way/an extra question/solution that you can offer, please reach out to us by email [java_devrel_grp](mailto:java_devrel_grp@oracle.com).
+If you spot an error, or you know of an alternative way/an extra question/solution that you can offer, please reach out to us by email [java_devrel_grp](mailto:java_devrel_grp@oracle.com).
 
 ## Security
 
