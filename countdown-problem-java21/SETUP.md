@@ -1,6 +1,6 @@
 # Countdown Problem
 
-[CountDownProblem.java](CountDownProblem.java) is the complete example used in the article https://inside.java/2023/11/02/countdown-haskell-java.
+[CountDownProblem.java](CountDownProblem.java) is the complete example used in the article https://inside.java/2023/11/03/countdown-haskell-java.
 The code represents the Java port of [a Haskell example](https://www.cs.nott.ac.uk/~pszgmh/pgp-countdown.hs) authored by Prof. Graham Hutton.
 The problem and the solution approaches of the Haskell example are explained in https://youtu.be/CiXDS3bBBUo?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3.
 
