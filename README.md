@@ -1,7 +1,6 @@
 # Samples
 
 This repository contains sample code in order for developers to reproduce complex examples shared on https://inside.java or https://dev.java.
-The code is stored in a directory named after the URL slug of the published article.
 
 ## Installation
 
@@ -9,7 +8,7 @@ Each sample directory contains its own instructions (SETUP.md) on how to run the
 
 ## Content
 
-* [CountDownProblem.java](countdown-haskell-java/CountDownProblem.java) published on https://inside.java/2023/11/02/countdown-haskell-java 
+* [CountDownProblem.java](countdown-problem-java21/CountDownProblem.java) published on https://inside.java/2023/11/02/countdown-haskell-java 
 
 ## Contributing
 
