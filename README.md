@@ -8,7 +8,8 @@ Each sample directory contains its own instructions (SETUP.md) on how to run the
 
 ## Content
 
-<!--- Contains a list of  directories and link to published article -->
+* [CountDownProblem.java](countdown-problem-java21/CountDownProblem.java) published on https://inside.java/2023/11/03/countdown-haskell-java 
+
 
 ## Feedback
 
